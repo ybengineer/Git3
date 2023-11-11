@@ -1,0 +1,4 @@
+# this comment:- list down file you not want to be commited:-
+index.java
+secret.txt
+# this file will not be commited
